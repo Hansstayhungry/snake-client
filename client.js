@@ -14,6 +14,7 @@ const connect = function () {
   conn.on("connect", () => {
     console.log("Successfully connected to game server");
     conn.write('Name: HW');
+    //conn.write('Say: Mamba is here');
 
     // // hard-coded message to test out
     // setTimeout(() => {
