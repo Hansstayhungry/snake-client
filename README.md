@@ -8,8 +8,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-![Starting multiplayer game](https://github.com/Hansstayhungry/snake-client/blob/master/Multiplayer%20start.png)
-![PLay screen with canned messages](https://github.com/Hansstayhungry/snake-client/blob/master/play%20with%20canned%20messages.png)
+![Starting multiplayer game](screenshot/Multiplayerstart.png)
+![PLay screen with canned messages](screenshot/playWithCannedMessages.png)
 
 
 ## Getting Started
